@@ -1,0 +1,9 @@
+*
+!.gitattributes
+!.gitignore
+!LICENSE
+!README.md
+!sample-output.jpg
+!sample.jpg
+!slanted-utility-pole-detection.pt
+!SlantedUtilityPoleDetection.ipynb
