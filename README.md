@@ -1,6 +1,6 @@
 # Slanted Utility Pole Detection Using YOLOv8
 
-This project detects slanted utility poles in images using the YOLOv8 object detection model and a custom dataset for accurate and fast detection.
+This project detects slanted utility poles in images and videos using the YOLOv8 object detection model with a custom dataset.
 
 <div align="center">
 <img src="https://github.com/dkroderos/slanted-utility-pole-detection/blob/main/sample-output.jpg" width = 70% height = 70%>
@@ -16,7 +16,7 @@ pip install ultralytics==8.2.103 ipython
 
 ### Testing
 
-Clone the repository and open the notebook.
+Clone the repository.
 
 ```sh
 git clone https://github.com/dkroderos/slanted-utility-pole-detection.git
